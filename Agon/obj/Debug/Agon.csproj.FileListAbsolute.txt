@@ -1,0 +1,113 @@
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\Agon.dll.config
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\Agon.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\Agon.pdb
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csc.exe
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csc.exe.config
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csc.rsp
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csi.exe
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csi.exe.config
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\csi.rsp
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.AppContext.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Console.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.IO.Compression.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.IO.Pipes.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Claims.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.ValueTuple.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\vbc.exe
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\vbc.exe.config
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\vbc.rsp
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\VBCSCompiler.exe
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\obj\Debug\Agon.csproj.CoreCompileInputs.cache
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\obj\Debug\Agon.csproj.CopyComplete
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\obj\Debug\Agon.dll
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\obj\Debug\Agon.pdb
+C:\Users\e2serv\Documents\Visual Studio 2017\Projects\Agon\Agon\obj\Debug\Agon.csprojAssemblyReference.cache
+E:\Extra\Mylib\WreckingYardAsp\Agon\obj\Debug\Agon.csprojAssemblyReference.cache
+E:\Extra\Mylib\WreckingYardAsp\Agon\obj\Debug\Agon.csproj.CoreCompileInputs.cache
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\Agon.dll.config
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\Agon.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\Agon.pdb
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csc.exe
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csc.exe.config
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csc.rsp
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csi.exe
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csi.exe.config
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\csi.rsp
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.AppContext.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Collections.Immutable.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Console.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.IO.Compression.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.IO.FileSystem.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.IO.Pipes.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Reflection.Metadata.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.AccessControl.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Claims.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.ValueTuple.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Xml.XPath.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\vbc.exe
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\vbc.exe.config
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\vbc.rsp
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\VBCSCompiler.exe
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\roslyn\VBCSCompiler.exe.config
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\EASendMail.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Extra\Mylib\WreckingYardAsp\Agon\obj\Debug\Agon.csproj.CopyComplete
+E:\Extra\Mylib\WreckingYardAsp\Agon\obj\Debug\Agon.dll
+E:\Extra\Mylib\WreckingYardAsp\Agon\obj\Debug\Agon.pdb
